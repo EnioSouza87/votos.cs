@@ -1,0 +1,5 @@
+C:\Users\curso.AM\Desktop\enio c# exemplos em aula\EXEMPLO 10.07.19\exercVOTOS 10.07.19\exercVOTOS 10.07.19\bin\Debug\exercVOTOS 10.07.19.exe
+C:\Users\curso.AM\Desktop\enio c# exemplos em aula\EXEMPLO 10.07.19\exercVOTOS 10.07.19\exercVOTOS 10.07.19\bin\Debug\exercVOTOS 10.07.19.pdb
+C:\Users\curso.AM\Desktop\enio c# exemplos em aula\EXEMPLO 10.07.19\exercVOTOS 10.07.19\exercVOTOS 10.07.19\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\curso.AM\Desktop\enio c# exemplos em aula\EXEMPLO 10.07.19\exercVOTOS 10.07.19\exercVOTOS 10.07.19\obj\Debug\exercVOTOS 10.07.19.exe
+C:\Users\curso.AM\Desktop\enio c# exemplos em aula\EXEMPLO 10.07.19\exercVOTOS 10.07.19\exercVOTOS 10.07.19\obj\Debug\exercVOTOS 10.07.19.pdb
